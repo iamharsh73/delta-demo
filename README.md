@@ -1,2 +1,2 @@
 # delta-demo
-it is a tool
+it is a tool.
